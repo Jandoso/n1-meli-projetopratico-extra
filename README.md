@@ -2,7 +2,7 @@
 API criada como projeto prático extra durante curso de backend em parceria do Mercado Livre e Reprograma
 
 ### TECHS UTILIZADAS
-- JavaScrip
+- JavaScript
   - NodeJS
      - Express
     

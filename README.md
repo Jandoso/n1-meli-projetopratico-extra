@@ -8,8 +8,8 @@ API criada como projeto prático extra durante curso de backend em parceria do M
     
 ### Endpoints <br/>
 
-GET/filmes
-GET/filmes/longos
-GET/filmes/:id
-GET/filmes/lancamentos
+GET/filmes <br/>
+GET/filmes/longos <br/>
+GET/filmes/:id <br/>
+GET/filmes/lancamentos <br/>
 GET/filmes/genero/:nome

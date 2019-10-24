@@ -1,0 +1,56 @@
+[{
+    "id" : 1,
+    "titulo": "o senhor dos aneis - a sociedade do anel",
+    "dataLancamento": "01/01/2002",
+    "duracaoEmMinutos" : 178,
+    "genero": ["aventura", "epico", "fantasia"],
+    "sinopse": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel."
+},
+{   "id" : 2,
+    "titulo": "bacurau",
+    "dataLancamento": "23/08/2019",
+    "duracaoEmMinutos": 132,
+    "genero": ["drama", "faroeste", "terror gore", "fantasia", "ficcao cientifica"],
+    "sinopse": "Pouco após a morte de dona Carmelita, aos 94 anos, os moradores de um pequeno povoado localizado no sertão brasileiro, chamado Bacurau, descobrem que a comunidade não consta mais em qualquer mapa. Aos poucos, percebem algo estranho na região: enquanto drones passeiam pelos céus, estrangeiros chegam à cidade pela primeira vez. Quando carros se tornam vítimas de tiros e cadáveres começam a aparecer, Teresa (Bárbara Colen), Domingas (Sônia Braga), Acácio (Thomas Aquino), Plínio (Wilson Rabelo), Lunga (Silvero Pereira) e outros habitantes chegam à conclusão de que estão sendo atacados. Falta identificar o inimigo e criar coletivamente um meio de defesa."
+},
+{
+    "id" : 3,
+    "titulo": "uma linda mulher",
+    "dataLancamento": "27/07/1990",
+    "duracaoEmMinutos": 119,
+    "genero": ["comedia", "romance"],
+    "sinopse": "Durante uma viagem de negócios a Los Angeles, Edward, um executivo que compra e fragmenta empresas para vendê-las, encontra a prostituta Vivian. Edward a contrata para ficar com ele durante uma semana a fim de acompanhá-lo nos jantares de negócios. Os dois se aproximam e descobrem que há vários obstáculos para serem superados até que possam unir seus mundos tão diferentes."
+},
+{
+    "id" : 4,
+    "titulo": "tempos modernos",
+    "dataLancamento": "05/02/1936",
+    "duracaoEmMinutos": 87,
+    "genero": ["comedia", "drama", "romance"],
+    "sinopse": "O icónico Vagabundo está empregado em uma fábrica, onde as máquinas inevitável e completamente o dominam e vários percalços o levam para a prisão. Entre suas passagens pela prisão, ele conhece e faz amizade com uma garota órfã. Ambos, juntos e separados, tentam lidar com as dificuldades da vida moderna, o Vagabundo trabalhando como garçom e, eventualmente, um artista."
+},
+{
+    "id" : 5,
+    "titulo" : "coringa",
+    "dataLancamento": "03/10/2019",
+    "duracaoEmMinutos": 123,
+    "genero": ["suspense", "psicologia"],
+    "sinopse": "O comediante falido Arthur Fleck encontra violentos bandidos pelas ruas de Gotham City. Desconsiderado pela sociedade, Fleck começa a ficar louco e se transforma no criminoso conhecido como Coringa."
+},
+{
+    "id" : 6,
+    "titulo" : "bastardos inglórios",
+    "dataLancamento": "09/10/2009",
+    "duracaoEmMinutos": 153,
+    "genero": ["acao", "guerra", "drama", "comedia"],
+    "sinopse": "Durante a Segunda Guerra Mundial, na França, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do partido."
+},
+{
+    "id" : 7,
+    "titulo": "o exterminador do futuro - destino sombio",
+    "dataLancamento": "31/10/2019",
+    "duracaoEmMinutos": 129,
+    "genero": ["acao", "ficcao cientifica"],
+    "sinopse": "Na sexta aventura da saga Exterminador do Futuro, Arnold Schwarzenegger interpreta novamente o papel icônico de T-800, enquanto Linda Hamilton encarna mais uma vez Sarah Connor."
+}
+]
